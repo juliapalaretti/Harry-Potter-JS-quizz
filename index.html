@@ -11,7 +11,7 @@
     <title>Sorting hat</title>
 </head>
 <body>
-    <div class="container">
+    <div class="container" id="container-questoes">
         <h1 class="titulo">Chapéu Seletor</h1>
         <p class="subtitulo">Bem vindo ao Chapéu Seletor, um quiz dedicado a descobrir em qual das casas de Hogwarts você se encaixa.</p>
         <img src="images/harry-cat.png" id="logo" alt="um gato vestido de harry potter">
@@ -39,7 +39,11 @@
             <button class="botao" id="botao-finalizar" onclick="mostrarCasa()">Finalizar</button>
         </div>
     </div>
-
+    <div class="container" id="container-resultado">
+        <div id="img-casa"></div>
+        <h2 class="casa-intro">Seja bem vindo à <span class="casa"></span>!</h2>
+        <p class="casa-descricao"></p>
+    </div>
     <script src="index.js"></script>
 </body>
 </html>

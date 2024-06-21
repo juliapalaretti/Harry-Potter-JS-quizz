@@ -24,4 +24,22 @@
         {"texto": "Inteligencia", "casa": "Corvinal"},
         {"texto": "Ambição", "casa": "Sonserina"}
     ]
+},
+{
+    "questao": "Como você se vê após se graduar em Hogwarts?",
+    "respostas": [
+        {"texto": "Trabalhando no Hospital St. Mungus", "casa": "Lufa-Lufa"},
+        {"texto": "Se tornando um auror e lutando contra as forças das trevas", "casa": "Grifinória"},
+        {"texto": "Conduzindo pesquisa mágica", "casa": "Corvinal"},
+        {"texto": "Aumentando seu poder no mundo mágico", "casa": "Sonserina"}
+    ]
+},
+{
+    "questao": "Como você reagiria se um amigo te traisse?",
+    "respostas": [
+        {"texto": "Planejando sua vingança cuidadosamente", "casa": "Sonserina"},
+        {"texto": "Confrontando ele e exigindo uma explicação", "casa": "Grifinória"},
+        {"texto": "Tentando entender o motivo e perdoando as ações", "casa": "Lufa-Lufa"},
+        {"texto": "Analisando a situação para aprender com ela", "casa": "Corvinal"}
+    ]
 }]
