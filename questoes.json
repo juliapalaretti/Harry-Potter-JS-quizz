@@ -1,0 +1,27 @@
+[{
+    "questao": "Você se depara com um troll atacando um grupo de estudantes. O que você faz?",
+    "respostas": [
+        {"texto": "Confrontar o troll para defender os alunos", "casa": "Grifinória"},
+        {"texto": "Tentar desviar a atenção do troll dos alunos", "casa": "Lufa-Lufa"},
+        {"texto": "Analisar a situação para encontrar a fraqueza do troll", "casa": "Corvinal"},
+        {"texto": "Usar um feitiço para controlar o troll e fazê-lo ir embora", "casa": "Sonserina"}
+    ]
+},
+{
+    "questao": "Qual matéria da escola de magia mais interessa você?",
+    "respostas": [
+        {"texto": "Poções", "casa": "Sonserina"},
+        {"texto": "Defesa contra as artes das trevas", "casa": "Grifinória"},
+        {"texto": "Trato de criaturas mágicas", "casa": "Lufa-Lufa"},
+        {"texto": "História da magia", "casa": "Corvinal"}
+    ]
+},
+{
+    "questao": "Qual qualidade você mais valoriza em um amigo?",
+    "respostas": [
+        {"texto": "Coragem", "casa": "Grifinória"},
+        {"texto": "Bondade", "casa": "Lufa-Lufa"},
+        {"texto": "Inteligencia", "casa": "Corvinal"},
+        {"texto": "Ambição", "casa": "Sonserina"}
+    ]
+}]

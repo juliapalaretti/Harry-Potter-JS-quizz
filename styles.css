@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+    font-family: "Nunito", sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 50px;
+    border-top: 5px solid rgb(144, 0, 0);
+    border-right: 5px solid rgb(255, 217, 0);
+    border-bottom: 5px solid rgb(4, 116, 25);
+    border-left: 5px solid rgb(14, 14, 173);
+    background-color: white;
+}
+
+.titulo {
+    font-size: 40px;
+}
+
+#logo {
+    width: 200px;
+}
+
+.questao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botao {
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(255, 243, 229);
+    font-weight: bold;
+    margin-top: 20px;
+}
